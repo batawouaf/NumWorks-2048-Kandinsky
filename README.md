@@ -21,7 +21,7 @@ Voici le lien d'un simulateur de la calculatrice NumWorks :
 Merci d'avoir lu ^^
 
 
-
+------------------
 
 
 Translate by Chatgpt.
