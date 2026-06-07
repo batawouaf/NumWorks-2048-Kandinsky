@@ -3,6 +3,8 @@ Python game for NumWorks
 
 Sorry, I'm going to speak French because my English is too bad.
 
+----
+
 Voici mon premier jeu Python sur NumWorks. Mon projet est un 2048 utilisant les imports suivants :
 
 - kandinsky
@@ -25,7 +27,7 @@ Voici le lien d'un simulateur de la calculatrice NumWorks :
 Merci d'avoir lu ^^
 
 
-------------------
+----
 
 
 Translate by Chatgpt.
