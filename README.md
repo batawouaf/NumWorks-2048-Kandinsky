@@ -19,7 +19,7 @@ Voici le lien d'un simulateur de la calculatrice NumWorks :
 
 Merci d'avoir lu et voici mon projet téléchargeable ici :
 
-[kandinsky_4.py](https://github.com/user-attachments/files/28669798/kandinsky_4.py)
+[kandinsky_4.py](kandinsky_v2.py)
 
 
 
